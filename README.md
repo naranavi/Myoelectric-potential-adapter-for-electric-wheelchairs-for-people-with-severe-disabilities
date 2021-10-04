@@ -1,31 +1,64 @@
+
+## Title
+d“x‚ÌlˆáŠQ‚ğ‚ÂlX‚Ì‚½‚ß‚Ì“d“®Ô‚¢‚·‹Ø“dˆÊƒAƒ_ƒvƒ^[B
+Electric Wheelchair Myoelectric Potential Adapter for People with Severe Limb Disorders.
+
+##
+[ŠÈ’P‚Èà–¾“®‰æ Brief explanation video]( https://youtu.be/57T5eTsrPN8)
 ## Inspiration
-é‡åº¦å››è‚¢éšœç¢è€…ã®æ–¹ã®è‡ªåˆ†ã§å‹•ããŸã„æ¬²æ±‚ã¯ç§ãŒè€ƒãˆã‚‹ã‚ˆã‚Šã¯ã‚‹ã‹ã«å¼·ã„ã“ã¨ã«æ°—ã¥ãã¾ã—ãŸã€‚
+d“xlˆáŠVÒ‚Ì•û‚Ì©•ª‚Å“®‚«‚½‚¢—~‹‚Í„‚ªl‚¦‚é‚æ‚è‚Í‚é‚©‚É‹­‚¢‚±‚Æ‚É‹C‚Ã‚«‚Ü‚µ‚½B
+I have noticed that people with severe limb disabilities have a much stronger desire to move on their own than I think.
+
 ## What it does
-æ‰‹è¶³ã€é¦–ãŒä¸è‡ªç”±ã§ã‚‚ç¾åœ¨ã‚ã‚‹ç¨‹åº¦è‡ªç”±ã«å‹•ã‹ã›ã‚‹å£ã®å‹•ãã§é›»å‹•è»Šã„ã™ã‚’æ“ç¸¦ã™ã‚‹ã“ã¨ã‚’è€ƒãˆã¾ã—ãŸã€‚
+è‘«Añ‚ª•s©—R‚Å‚àŒ»İ‚ ‚é’ö“x©—R‚É“®‚©‚¹‚éŒû‚Ì“®‚«‚Å“d“®Ô‚¢‚·‚ğ‘€c‚·‚é‚±‚Æ‚ğl‚¦‚Ü‚µ‚½B  
+‰œ•‚ğŠš‚İ‚µ‚ß‚é‚±‚Æ‚É‚æ‚è“d“®Ô‚¢‚·‚ğ©İ‚É‘€c‚µ‚Ü‚·B
+I thought about operating an electric wheelchair with the movement of the mouth, which allows me to move freely to some extent even if my limbs and neck are inconvenient.
+You can freely control an electric wheelchair by biting your back teeth.
 
 ## How we built it
-å¥¥æ­¯ã‚’å™›ã¿ã—ã‚ãŸã¨ãã«ç™ºç”Ÿã™ã‚‹å´é ­ç­‹ã®ç­‹é›»ä½ã‚’ã‚³ãƒ¡ã‚«ãƒŸä»˜è¿‘ã«é›»æ¥µã‚’ç½®ã„ã¦æ¤œå‡ºã—ã€ãã®ä¿¡å·ã‚’åŠ å·¥ã—ã¦é›»å‹•è»Šã„ã™ã‚’å‹•ä½œã•ã›ã‚‹ä¿¡å·ã«å¤‰æ›ã—ã¾ã—ãŸã€‚
-ã‚¸ãƒ§ã‚¤ã‚¹ãƒ†ã‚£ãƒƒã‚¯ã‚’æ”¹é€ ã—ã¦æ¥ç¶šã—ã¦ã„ãŸã®ã‚’è»Šã„ã™ãƒ¡ãƒ¼ã‚«ã®ã‚¤ãƒ³ã‚¿ãƒ¼ãƒ•ã‚§ãƒ¼ã‚¹ã«åˆã‚ã›ã¾ã—ãŸã€‚
-ãƒ»ç„¡ç·šå¼ç­‹é›»ä½ã‚¢ãƒ³ãƒ—ã®é–‹ç™º
-ãƒ»ç­‹é›»ä½ä¿¡å·å—ä¿¡ã€æ“ç¸¦ã‚¢ãƒ«ã‚´ãƒªã‚ºãƒ å®Ÿè¡ŒåŠã³é›»å‹•è»Šã„ã™ã‚¤ãƒ³ã‚¿ãƒ¼ãƒ•ã‚§ãƒ¼ã‚¹æ¥ç¶šã®ãŸã‚ã®ã‚¢ãƒ€ãƒ—ã‚¿é–‹ç™º
+‰œ•‚ğŠš‚İ‚µ‚ß‚½‚Æ‚«‚É”­¶‚·‚é‘¤“ª‹Ø‚Ì‹Ø“dˆÊ‚ğƒRƒƒJƒ~•t‹ß‚É“d‹É‚ğ’u‚¢‚ÄŒŸo‚µA‚»‚ÌM†‚ğ‰ÁH‚µ‚Ä“d“®Ô‚¢‚·‚ğ“®ì‚³‚¹‚éM†‚É•ÏŠ·‚µ‚Ü‚µ‚½B  
+ƒWƒ‡ƒCƒXƒeƒBƒbƒN‚ğ‰ü‘¢‚µ‚ÄÚ‘±‚µ‚Ä‚¢‚½‚Ì‚ğÔ‚¢‚·ƒ[ƒJ‚ÌƒCƒ“ƒ^[ƒtƒF[ƒX‚É‡‚í‚¹‚Ü‚µ‚½B   
+E–³ü®‹Ø“dˆÊƒAƒ“ƒv‚ÌŠJ”­   
+E‹Ø“dˆÊM†óMA‘€cƒAƒ‹ƒSƒŠƒYƒ€Às‹y‚Ñ“d“®Ô‚¢‚·ƒCƒ“ƒ^[ƒtƒF[ƒXÚ‘±‚Ì‚½‚ß‚ÌƒAƒ_ƒvƒ^ŠJ”­   
+The myoelectric potential of the temporalis muscle generated when the back teeth are bitten is detected by placing an electrode near the temple, and the signal is processed and converted into a signal to operate the electric wheelchair.   
+The joystick was modified and connected to match the interface of the wheelchair manufacturer.   
+E Development of wireless myoelectric potential amplifier   
+E Development of adapters for receiving myoelectric potential signals, executing maneuvering  
+  algorithms, and connecting electric wheelchair interfaces
 
 ## Challenges we ran into
-å·¦å³ã®ã‚³ãƒ¡ã‚«ãƒŸã‹ã‚‰æ¤œå‡ºã—ãŸ2ã¤ã®ä¿¡å·ã§é›»å‹•è»Šã„ã™ã‚’è‡ªåœ¨ã«æ“ç¸¦ã™ã‚‹ã‚¢ãƒ«ã‚´ãƒªã‚ºãƒ ã‚’ã©ã®ã‚ˆã†ã«ã™ã‚‹ã‹æ‚©ã¿ã¾ã—ãŸã€‚
-ã‚³ãƒãƒ³ãƒ‰æ–¹å¼ã™ã‚‹ã¨å¤šãã®å‹•ä½œã‚’é¸æŠã™ã‚‹ã“ã¨ãŒã§ãã¾ã™ãŒãƒªã‚¢ãƒ«ã‚¿ã‚¤ãƒ æ€§ãŒçŠ ç‰²ã«ãªã‚Šã¾ã™ã€‚
-å³å¥¥æ­¯ã‚’å™›ã¿ã—ã‚ã‚Œã°å³ã«æ—‹å›ã€å·¦å¥¥æ­¯ã‚’å™›ã¿ã—ã‚ã‚Œã°å·¦æ—‹å›ã€ä¸¡æ–¹ã§å‰é€²ã€æ­¯ã‚’å™›ã¿ã—ã‚ã¦ã„ã‚‹é–“å‹•ã„ã¦åŠ›ã‚’ç·©ã‚ã‚‹ã¨åœæ­¢ã™ã‚‹ã‚’åŸºæœ¬ã«ç›´è¦³çš„ã«æ“ç¸¦æ–¹æ³•ã«è½ã¡ç€ãã¾ã—ãŸã€‚
+¶‰E‚ÌƒRƒƒJƒ~‚©‚çŒŸo‚µ‚½2‚Â‚ÌM†‚Å“d“®Ô‚¢‚·‚ğ©İ‚É‘€c‚·‚éƒAƒ‹ƒSƒŠƒYƒ€‚ğ‚Ç‚Ì‚æ‚¤‚É‚·‚é‚©”Y‚İ‚Ü‚µ‚½B   
+ƒRƒ}ƒ“ƒh•û®‚·‚é‚Æ‘½‚­‚Ì“®ì‚ğ‘I‘ğ‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·‚ªƒŠƒAƒ‹ƒ^ƒCƒ€«‚ª‹]µ‚É‚È‚è‚Ü‚·B   
+‰E‰œ•‚ğŠš‚İ‚µ‚ß‚ê‚Î‰E‚Éù‰ñA¶‰œ•‚ğŠš‚İ‚µ‚ß‚ê‚Î¶ù‰ñA—¼•û‚Å‘OiA•‚ğŠš‚İ‚µ‚ß‚Ä‚¢‚éŠÔ“®‚¢‚Ä—Í‚ğŠÉ‚ß‚é‚Æ’â~‚·‚éA’¼ŠÏ“I‚È‘€c•û–@‚É‚È‚è‚Ü‚µ‚½ B  
+I was worried about how to use the algorithm to freely control the electric wheelchair with the two signals detected from the left and right temples.   
+The command method allows you to select many actions, but at the expense of real-time performance.
+If you bite the right back tooth, it turns to the right, if you bite the left back tooth, it turns left, both move forward, and if you run while biting the tooth and loosen the force, it stops.   
+It became an intuitive maneuvering method.   
 
 ## Accomplishments that we're proud of
-ä½¿ç”¨è€…ã¨ä¸€ç·’ã«é–‹ç™ºã™ã‚‹ã“ã¨ã«ã‚ˆã‚Šæƒ³å®šä»¥ä¸Šã®è»Šã„ã™ã®æ“ä½œæ€§èƒ½ã‚’å¾—ã‚‹ã“ã¨ãŒã§ããŸã“ã¨ã¨
-ä½¿ç”¨è€…ã®åŠªåŠ›ã§å‰å¾Œã¨ãã®å ´æ—‹å›ã®å‹•ãã®äºˆå®šãŒæ–œã‚ãŒæ–¹å‘ãŒå…¥ã£ã¦Så­—ã‚«ãƒ¼ãƒ–ã‚’èµ°è¡Œã§ãã‚‹ã‚ˆã†ã«ãªã‚Šã¾ã—ãŸã€‚
-ä½¿ç”¨è€…ãŒä»Šã¾ã§è¦‹å­¦ã ã£ãŸä½“è‚²ã®æˆæ¥­ã«å‚åŠ ã§ãã‚‹ã‚ˆã†ã«ãªã£ãŸã“ã¨ã§ã™ã€‚
-ãƒ»é€šå¸¸ã®é›»å‹•è»Šã„ã™ã®é€Ÿåº¦ã§æ“ç¸¦å¯èƒ½
-ãƒ»Så­—ã‚³ãƒ¼ã‚¹ã‚‚é€šå¸¸é€Ÿåº¦ã§ã‚¯ãƒªã‚¢
-ãƒ»ä½“è‚²ã®æˆæ¥­ã«å‚åŠ https://youtu.be/57T5eTsrPN8
+g—pÒ‚ª¡‚Ü‚ÅŒ©Šw‚¾‚Á‚½‘Ìˆç‚Ìö‹Æ‚ÉQ‰Á‚Å‚«‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½B   
+g—pÒ‚Æˆê‚ÉŠJ”­‚·‚é‚±‚Æ‚É‚æ‚è‘z’èˆÈã‚ÌÔ‚¢‚·‚Ì‘€ì«”\‚ğ“¾‚é‚±‚Æ‚ª‚Å‚«‚Ü‚µ‚½B   
+g—pÒ‚Ì“w—Í‚Å‘OŒã‚Æ‚»‚Ìêù‰ñ‚Ì“®‚«‚Ì—\’è‚ªÎ‚ß•ûŒü‚ª“ü‚Á‚ÄSšƒJ[ƒu‚ğ‘–s‚Å‚«‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½B   
+ŠwZ“à‚Å“d“®Ô‚¢‚·‚ğ‰^“]‚·‚é–Æ‹–‚ğæ“¾‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚µ‚½B   
+E’Êí‚Ì“d“®Ô‚¢‚·‚Ì‘¬“x‚Å‘€c‰Â”\   
+ESšƒR[ƒX‚à’Êí‘¬“x‚ÅƒNƒŠƒA   
+E‘Ìˆç‚Ìö‹Æ‚ÉQ‰Á   
+Users can now participate in physical education classes.   
+By developing it together with the user, we were able to obtain more wheelchair operation performance than expected.   
+Thanks to the efforts of the user, it has become possible to drive on an S-shaped curve with diagonal directions in the front-back and in-situ turning movement schedules.   
+I was able to get a license to drive an electric wheelchair in the school.   
+E Can be operated at normal electric wheelchair speed   
+E Clear S-shaped course at normal speed   
+E Participate in physical education classes    
 
 ## What we learned
-é–‹ç™ºè€…ãŒã“ã“ã¾ã§ã ã‚ã†ã¨å‹æ‰‹ã«ã‚¹ãƒšãƒƒã‚¯ã®ç¯„å›²ã‚’æ±ºã‚ã¦ã—ã¾ã‚ãšã«äººé–“ã®å¯èƒ½æ€§ã‚’ä¿¡ã˜ã‚‹ã“ã¨
-ï¼ˆã‚†ã£ãã‚Šã§ã‚‚å‰é€²ã€å¾Œé€²ã€æ—‹å›ãŒã§ãã‚Œã°OKã ã‚ã†ãªã©ï¼‰
+ŠJ”­Ò‚ª‚±‚±‚Ü‚Å‚¾‚ë‚¤‚ÆŸè‚ÉƒXƒyƒbƒN‚Ì”ÍˆÍ‚ğŒˆ‚ß‚Ä‚µ‚Ü‚í‚¸‚ÉlŠÔ‚Ì‰Â”\«‚ğM‚¶‚é‚±‚Æ   
+i‚ä‚Á‚­‚è‚Å‚à‘OiAŒãiAù‰ñ‚ª‚Å‚«‚ê‚ÎOK‚¾‚ë‚¤‚È‚Çj   
+The developer should not decide the range of specifications.   
+Believe in the potential of the parties and carry out development   
 
 ## What's next for Team 5-ADL-Track4
-ç¾åœ¨ã€é•·æ™‚é–“ã®é‹è»¢ã‚’è¡Œã†ã¨é¡ãŒç–²ã‚Œã‚‹ã®ã§å®‰å…¨ã§ç–²ã‚Œãªã„æ“ä½œã‚¢ãƒ«ã‚´ãƒªã‚ºãƒ ã®é–‹ç™ºã€‚
-ã‚ã¨é‡åº¦å››è‚¢éšœç¢è€…ãŒã‚¢ã‚¯ã‚·ãƒ§ãƒ³ã‚²ãƒ¼ãƒ ãŒã§ãã‚‹ã‚¤ãƒ³ã‚¿ãƒ¼ãƒ•ã‚§ãƒ¼ã‚¹ã®é–‹ç™ºã‚’ã—ãŸã„ã§ã™ã€‚
+Œ»İA’·ŠÔ‚Ì‰^“]‚ğs‚¤‚ÆŠ{‚ª”æ‚ê‚é‚Ì‚ÅˆÀ‘S‚Å”æ‚ê‚È‚¢‘€ìƒAƒ‹ƒSƒŠƒYƒ€‚ÌŠJ”­B   
+‚ ‚Æd“xlˆáŠVÒ‚ªƒAƒNƒVƒ‡ƒ“ƒQ[ƒ€‚ğ‚±‚È‚¹‚éƒCƒ“ƒ^[ƒtƒF[ƒX‚ÌŠJ”­‚ğ‚µ‚½‚¢‚Å‚·B   
+Currently, we are developing a safe and comfortable operation algorithm because the jaw gets tired when driving for a long time.   
+I also want to develop an interface that allows people with severe limb disabilities to play action games.   
